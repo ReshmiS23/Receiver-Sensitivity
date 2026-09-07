@@ -51,6 +51,8 @@ Power meters are placed:
 - After the attenuator (input to receiver)  
 
 ---
+## Calculation
+<img width="1600" height="1360" alt="WhatsApp Image 2026-09-07 at 12 09 42 PM" src="https://github.com/user-attachments/assets/bff4719d-7db8-4a60-b9e6-85405610325b" />
 
 ## Simulation
 Steps:
@@ -58,6 +60,7 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/e4f66afb-596e-44e4-945e-c080d0d086da" />
 
 ---
 
